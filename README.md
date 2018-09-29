@@ -1,2 +1,3 @@
-# valorcados
-App Valorcados
+# valorados aplicacion para enseñar valores
+# David
+App ValorCados
