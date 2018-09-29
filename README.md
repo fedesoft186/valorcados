@@ -1,5 +1,5 @@
 # valorcados
-App Valorcados es una aplicación infantil para enseñar valores
+App Valorcados es una aplicacion para niños
 # valorados aplicacion para enseñar valores
-# David
+# andres
 App ValorCados
